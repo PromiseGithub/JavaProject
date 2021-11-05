@@ -2,19 +2,18 @@
 
 ## **Overview**
 
-The aim of this project is to creat an application to help individuals determine their Basal Metabolic Rate
-## **Relational Database**
+The aim of this project is to creat an application to help individuals determine their Basal Metabolic Rate and get daily calories recommendation.
+## **Java**
 
-We will be working with SQL Database using SQLite. The database will contain three tables; Classes, professors, and Rating.
+The main programing language for this application is Java.
 
 ## **Development Environment**
 
-This project will be developed using VS Code. SQL will be the database, Python will be the programming language, git and Gitgub will be used for repository, and SQLIte will be the library to interact between Python and SQL.
+This project will be developed using VS Code. Java will be the programming language, git and Gitgub will be used for repository.
 
 ## **Useful Websites**
-GitHub link:[Promise's Github](https://github.com/PromiseGithub/ClassCatalog.git)
+GitHub link:[Promise's Github](https://github.com/PromiseGithub/JavaProject.git)
 Youtube link[Youtube link](https://youtu.be/ynC91Y9F6ag)
 
 ## **Future Work**
-Join features.
-Rating average calculator
+Full functional app
